@@ -1,0 +1,1 @@
+{"NVIDIA GeForce RTX 4050 Laptop GPU": {"performance": {"1": {"maskrcnn": [[6.33, 7.65], [7.32, 7.26], [7.15, 7.31], [6.78, 6.78], [6.99, 7.4], [6.87, 7.15], [7.04, 7.46], [6.97, 7.38], [6.98, 7.46], [6.94, 7.37]]}}, "properties": {"capability": [8, 9], "name": "NVIDIA GeForce RTX 4050 Laptop GPU", "sm_count": 20, "total_momory": 6.0}}}
